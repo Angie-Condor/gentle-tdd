@@ -1,0 +1,24 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "Ejercicio de TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angie-Condor/gentle-tdd.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejemplo"
+  ],
+  "author": "angie-condor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angie-Condor/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/Angie-Condor/gentle-tdd#readme"
+}
